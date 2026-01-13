@@ -1,2 +1,0 @@
-@startuml
-Student"0..*" -- "1..*"Course
