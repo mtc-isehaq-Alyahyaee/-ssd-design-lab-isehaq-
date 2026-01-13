@@ -3,8 +3,6 @@ left to right direction
 actor Student
 rectangle {
   (Register Course)
-  (check Prerequisite)
 }
 Student --> (Register Course)
-Student --> (check Prerequisite)
 @enduml
